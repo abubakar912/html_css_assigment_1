@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(192,192,192);
+}
+
+.div-one{
+    height: 50px;
+    background-color: white;
+}
+
+.div-one h2{
+    color: black;
+    padding-top: 12px;
+    padding-left: 10px;
+}
+
+.big-container{
+    margin-top: 10px;
+}
+
+.big-container .eight{
+    height: 20px;
+}
